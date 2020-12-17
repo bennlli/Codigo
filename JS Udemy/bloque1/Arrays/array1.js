@@ -94,3 +94,7 @@ console.log(newNumeros1);
 let newNumeros2 = numeros.slice(2,4);
 console.log(numeros);
 console.log(newNumeros2);
+
+let numbers = [1,2,3,4];
+console.log(numbers.length);
+console.log(Array.isArray(numbers));
